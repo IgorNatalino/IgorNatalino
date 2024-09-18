@@ -3,7 +3,7 @@
 <img src="https://igornatalino.github.io/Portfolio/assets/doodle.png" alt="ilustração de um desenvolvedor" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Tenho 26 anos e estou em busca de me profissionalizar como <strong>Desevolvedor Front Endo</strong>.<br>
+ Tenho 26 anos e estou em busca de me profissionalizar como <strong>Desevolvedor Front End</strong>.<br>
 Pós-graduado em Análise e Desenvolvimento de Sistemas e Engenharia de Software.<br> Apaixonado e sempre muito curioso tecnologia, pretendo me desenvolver cada vez mais e ampliar conhecimentos na área.<br> Estou determinado em fazer disso tudo uma jornada de sucesso e muito aprendizado, agregando cada vez mais os meus conhecimentos.<br>
 </p>
 
@@ -35,3 +35,5 @@ Pós-graduado em Análise e Desenvolvimento de Sistemas e Engenharia de Software
 ### Midías
 
 <p align="left"> <a href="https://www.github.com/Igor Natalino" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_natalino" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/IgorNatalino" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### &lt;/Agradeço a Visita&gt;
