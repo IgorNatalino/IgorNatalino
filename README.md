@@ -3,7 +3,7 @@
 <img src="https://igornatalino.github.io/Portfolio/assets/doodle.png" alt="ilustração de um desenvolvedor" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Tenho 26 anos e estou em busca de me profissionalizar como <strong>Desevolvedor Front End</strong>.<br>
+ Tenho 26 anos e atuo como <strong>Analista de Sistemas e Desevolvedor Front End</strong>.<br>
 Pós-graduado em Análise e Desenvolvimento de Sistemas e Engenharia de Software.<br> Apaixonado e sempre muito curioso tecnologia, pretendo me desenvolver cada vez mais e ampliar conhecimentos na área.<br> Estou determinado em fazer disso tudo uma jornada de sucesso e muito aprendizado, agregando cada vez mais os meus conhecimentos.<br>
 </p>
 
